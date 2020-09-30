@@ -1,2 +1,2 @@
-github.com/khushbakhtmahkamov/bank v0.0.0-20200929031435-12c9ef6be033 h1:TrsfRmgm3kt7BZFHEytgLJQcHs1esF+rXxNH8fOZZQE=
-github.com/khushbakhtmahkamov/bank v0.0.0-20200929031435-12c9ef6be033/go.mod h1:I9Vx85vvtg9LuaIpcTuRJPpkQmEcgcmqOk1o7k/zBJk=
+github.com/khushbakhtmahkamov/bank/v2 v2.0.0 h1:jKy+oaLQNmFnBWXusqU7aHCHfVWZg7P6rzUWVTaPjf0=
+github.com/khushbakhtmahkamov/bank/v2 v2.0.0/go.mod h1:qRIMPGfEeOaXwRjs967C8s6BnlLoTsKeRruNMKxRgEE=
