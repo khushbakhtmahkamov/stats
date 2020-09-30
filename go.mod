@@ -1,5 +1,5 @@
-module github.com/khushbakhtmahkamov/stats
+module github.com/khushbakhtmahkamov/stats/v2
 
 go 1.15
 
-require github.com/khushbakhtmahkamov/bank v0.0.0-20200929031435-12c9ef6be033
+require github.com/khushbakhtmahkamov/bank/v2 v2.0.0
